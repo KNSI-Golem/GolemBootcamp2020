@@ -1,7 +1,7 @@
 
 # Golem AI Bootcamp
 
-W tym repozytorium znajdują się materiały do bootcampu z października 2019 roku.
+W tym repozytorium znajdują się materiały do bootcampu z października 2020 roku.
 
 ## Materiały ze spotkań
 
@@ -11,7 +11,7 @@ Linki z opisami:
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
 
-- zainstalować pythona w dowolnej wersji 3.6.x;
+- zainstalować pythona w dowolnej wersji 3.8.x;
 - zainstalować narzędzie virtualenv;
 - sklonować repozytorium z materiałami;
 - utworzyć środowisko wirtualne;
@@ -30,9 +30,9 @@ Aby sprawdzić czy python i pip zostały poprawnie zainstalowane należy wpisać
 Output powinien wyglądać tak:
 ```
 > python --version
-Python 3.6.x
+Python 3.8.x
 > pip --version
-pip x.x.x from ... (python 3.6)
+pip x.x.x from ... (python 3.8)
 ```
 
 ### Instalacja virtualenva
@@ -52,11 +52,11 @@ x.x.x
 Należy zainstalować gita ⇒ https://git-scm.com/downloads
 Można również się wesprzeć jakimś GUI, np. gitkraken, sourcetree, itp.
 
-Po instalacji należy sklonować repozytorium spod adresu: *https://github.com/maciejchrabaszcz/Golem-BootCamp2019*
+Po instalacji należy sklonować repozytorium spod adresu: *https://github.com/KNSI-Golem/GolemBootcamp2020.git*
 
 W konsoli będzie to wyglądać tak:
 ```
-> git clone https://github.com/maciejchrabaszcz/Golem-BootCamp2019.git
+> git clone https://github.com/KNSI-Golem/GolemBootcamp2020.git
 ```
 
 **Uwaga:** Jeżeli do tej pory nie używałeś gita, polecam zrobić sobie kilka pierwszych kroków w tutorialu ⇒ https://learngitbranching.js.org/
@@ -85,7 +85,7 @@ W wyniku aktywacji przed znakiem zachęty w konsoli powinna pojawić się nazwa 
 (projectname) >
 ```
 
-### Instalacja kernala dla utworzonego środowiska
+### Instalacja kernela dla utworzonego środowiska
 
 Przy aktywowanym środowisku należy wywołać komendy:
 ```
