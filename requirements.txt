@@ -3,7 +3,7 @@ numpy
 matplotlib
 sklearn
 jupyter
-tensorflow==1.8.0
+tensorflow
 seaborn
 keras
 scikit-image
