@@ -1,7 +1,7 @@
 
 # Golem AI Bootcamp
 
-W tym repozytorium znajdują się materiały do bootcampu z października 2020 roku.
+W tym repozytorium znajdują się materiały do bootcampu z 2020 roku.
 
 ## Materiały ze spotkań
 
