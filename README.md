@@ -6,7 +6,7 @@ W tym repozytorium znajdują się materiały do bootcampu z 2020 roku.
 ## Materiały ze spotkań
 
 Linki z opisami:
-
+- [Prezentacja z 3 spotkania](https://docs.google.com/presentation/d/1JlRDpKppH4yswMeG5I0UBPsca26Co5qiogMiz5_iWjA/edit?usp=sharing)
 ## Przygotowanie środowiska do pracy
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
